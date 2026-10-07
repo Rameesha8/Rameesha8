@@ -48,15 +48,6 @@
   <img src="https://streak-stats.demolab.com?user=Rameesha8&hide_border=true&background=0D1117&ring=8B5CF6&fire=F97316&currStreakLabel=06B6D4&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 </p>
 
-## 🤝 Let’s connect
-
-I’m always happy to connect with people building thoughtful software, exploring AI, or working on interesting student projects.
-
-<p align="center">
-  <a href="https://github.com/Rameesha8"><img src="https://img.shields.io/badge/GitHub-Rameesha8-181717?style=for-the-badge&logo=github" alt="GitHub: Rameesha8" /></a>
-  <a href="mailto:rameeshasiddique2005@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rameesha" /></a>
-</p>
-
 <div align="center">
   <sub>Designed with intention — one meaningful commit at a time.</sub>
 </div>

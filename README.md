@@ -97,17 +97,21 @@
 
 </div>
 
-## Achievements & Activities
+## ✨ Achievements & Activities
+
+<p>
+  <img src="https://img.shields.io/badge/Industry%20Experience%20%E2%80%A2%20Leadership%20%E2%80%A2%20Certification-7C3AED?style=for-the-badge" alt="Industry experience, leadership, and certification" />
+</p>
 
 | Role / Achievement | Details |
 | :-- | :-- |
-| **Freelance AI Engineer** · Aug 2025 – Present | Develop AI, NLP, computer-vision, LLM, RAG, semantic-search, and intelligent-assistant solutions. |
-| **AI Intern — Elevvo Pathways** · Jun 2025 – Sep 2025 | Built resume-screening, fake-news detection, topic-modeling, and DistilBERT question-answering applications. |
-| **AI Intern — O2Geeks** · Jul 2025 – Sep 2025 | Developed MediBot AI using the Gemini API, FastAPI, Streamlit, NLP, and transformer-based text classification. |
-| **AI/ML Co-Lead — GDGoC** | Leadership role with Google Developer Groups on Campus. |
-| **GDGoC Fellow & Build with AI Speaker** | Contributed to the campus AI community through fellowship and speaking activities. |
-| **IBM SkillsBuild Certifications** | Deep Learning, Data Science & Analytics, and AI Chatbot Development. |
-| **PFTP Certification** | Artificial Intelligence. |
+| 💼 **Freelance AI Engineer** · Aug 2025 – Present | Develop AI, NLP, computer-vision, LLM, RAG, semantic-search, and intelligent-assistant solutions. |
+| 🔬 **AI Intern — Elevvo Pathways** · Jun 2025 – Sep 2025 | Built resume-screening, fake-news detection, topic-modeling, and DistilBERT question-answering applications. |
+| 🩺 **AI Intern — O2Geeks** · Jul 2025 – Sep 2025 | Developed MediBot AI using the Gemini API, FastAPI, Streamlit, NLP, and transformer-based text classification. |
+| 🌐 **AI/ML Co-Lead — GDGoC** | Leadership role with Google Developer Groups on Campus. |
+| 🎤 **GDGoC Fellow & Build with AI Speaker** | Contributed to the campus AI community through fellowship and speaking activities. |
+| 🏅 **IBM SkillsBuild Certifications** | Deep Learning, Data Science & Analytics, and AI Chatbot Development. |
+| 📜 **PFTP Certification** | Artificial Intelligence. |
 
 ## 📊 GitHub snapshot
 

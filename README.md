@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-06B6D4?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer vision" />
 
   <br /><br />
-  <a href="https://ai-engineer-portfolio.rameeshasiddique2005.workers.dev"><img src="https://img.shields.io/badge/Visit%20my%20portfolio-0BA99A?style=flat-square&logo=cloudflare&logoColor=white" alt="Visit Rameesha's portfolio website" /></a>
+  <a href="https://ai-engineer-portfolio.rameeshasiddique2005.workers.dev"><img src="https://img.shields.io/badge/Visit%20my%20portfolio-F97316?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Visit Rameesha's portfolio website" /></a>
 
 </div>
 

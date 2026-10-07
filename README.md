@@ -14,8 +14,6 @@
 
   <br /><br />
   <a href="https://ai-engineer-portfolio.rameeshasiddique2005.workers.dev"><img src="https://img.shields.io/badge/Visit%20my%20portfolio-0BA99A?style=flat-square&logo=cloudflare&logoColor=white" alt="Visit Rameesha's portfolio website" /></a>
-  <a href="https://github.com/Rameesha8?tab=followers"><img src="https://img.shields.io/github/followers/Rameesha8?label=Follow&style=flat-square&logo=github&color=7C3AED&labelColor=171717" alt="GitHub followers" /></a>
-  <a href="https://github.com/Rameesha8?tab=repositories"><img src="https://img.shields.io/badge/Explore%20repositories-171717?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" /></a>
 
 </div>
 

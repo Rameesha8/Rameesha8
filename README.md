@@ -18,24 +18,64 @@
 
 <br />
 
-## Toolbox
+## Tech Stack & Tools
 
 <div align="center">
 
-| Focus | Tools |
-| :-- | :-- |
-| **AI & Data** | <img src="https://skillicons.dev/icons?i=python,pytorch,opencv&theme=dark" height="42" alt="Python, PyTorch, and OpenCV" /> |
-| **Application Development** | <img src="https://skillicons.dev/icons?i=fastapi,flask,sqlite&theme=dark" height="42" alt="FastAPI, Flask, and SQLite" /> |
-| **Workflow** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="42" alt="Git, GitHub, and VS Code" /> |
+### Core Language
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="46" alt="Python" />
+
+### AI, Machine Learning & Computer Vision
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" height="46" alt="PyTorch and OpenCV" />
+
+<img src="https://img.shields.io/badge/YOLO%20%2F%20Ultralytics-7C3AED?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLO and Ultralytics" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Sentence%20Transformers-4C1D95?style=for-the-badge" alt="Sentence Transformers" />
+<img src="https://img.shields.io/badge/TorchVision-EE4C2C?style=for-the-badge" alt="TorchVision" />
+<img src="https://img.shields.io/badge/TorchAudio-EE4C2C?style=for-the-badge" alt="TorchAudio" />
+
+### Natural Language Processing
+
+<img src="https://img.shields.io/badge/Stanza-2563EB?style=for-the-badge" alt="Stanza" />
+<img src="https://img.shields.io/badge/UrduHack-0F766E?style=for-the-badge" alt="UrduHack" />
+<img src="https://img.shields.io/badge/Regex-475569?style=for-the-badge" alt="Regular expressions" />
+
+### Data, Research & Visualisation
+
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/NumPy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
+<img src="https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="OpenPyXL" />
+<img src="https://img.shields.io/badge/tqdm-FFC107?style=for-the-badge" alt="tqdm" />
+
+### App Development & Document Processing
+
+<img src="https://skillicons.dev/icons?i=fastapi,streamlit&theme=dark" height="46" alt="FastAPI and Streamlit" />
+
+<img src="https://img.shields.io/badge/Tkinter-2563EB?style=for-the-badge" alt="Tkinter" />
+<img src="https://img.shields.io/badge/Uvicorn-4051B5?style=for-the-badge" alt="Uvicorn" />
+<img src="https://img.shields.io/badge/pdfminer.six-DC2626?style=for-the-badge" alt="pdfminer.six" />
+<img src="https://img.shields.io/badge/python--docx-2563EB?style=for-the-badge" alt="python-docx" />
+<img src="https://img.shields.io/badge/MoviePy-4C1D95?style=for-the-badge" alt="MoviePy" />
+<img src="https://img.shields.io/badge/yt--dlp-DC2626?style=for-the-badge" alt="yt-dlp" />
+
+### Development Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="46" alt="Git and GitHub" />
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Sentence%20Transformers-5B21B6?style=flat-square" alt="Sentence Transformers" />
-  <img src="https://img.shields.io/badge/Streamlit-2563EB?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/pandas-06B6D4?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-F97316?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-</p>
+## Achievements & Activities
+
+| Area | Highlight |
+| :-- | :-- |
+| **Applied NLP** | Built a semantic resume-screening workflow that ranks candidates against a job description using sentence embeddings and cosine similarity. |
+| **Urdu NLP Research** | Evaluated rule-based, hybrid, UrduHack, Stanza, and regex approaches for sentence segmentation on Urdu social-media data. |
+| **Computer Vision** | Developed a smoking-detection workflow using YOLO, PyTorch, OpenCV, video preparation, inference, and model-training scripts. |
+| **Algorithm Education** | Created an interactive Python visualizer for BFS, DFS, and A* pathfinding algorithms. |
 
 ## 📊 GitHub snapshot
 

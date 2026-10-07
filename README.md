@@ -1,71 +1,40 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3200&pause=850&color=8B5CF6&center=true&vCenter=true&width=680&lines=Hi%2C+I%27m+Rameesha+%F0%9F%91%8B;AI+%26+Software+Developer;Building+useful%2C+human-centred+technology" alt="Animated introduction" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:2563EB,100:06B6D4&height=170&section=header&text=Rameesha&fontSize=58&fontColor=ffffff&fontAlignY=37&desc=Applied%20AI%20%7C%20NLP%20%7C%20Computer%20Vision&descAlignY=59&descSize=18&animation=fadeIn" alt="Rameesha — Applied AI, NLP, and Computer Vision" />
 
   <p>
-    <strong>AI / ML enthusiast</strong> &nbsp;•&nbsp; <strong>NLP & Computer Vision builder</strong> &nbsp;•&nbsp; <strong>Python developer</strong>
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=780&lines=Turning+language%2C+vision%2C+and+data+into+useful+software;Building+practical+machine-learning+experiences" alt="Applied AI developer headline" />
   </p>
 
-  <a href="https://github.com/Rameesha8?tab=followers"><img src="https://img.shields.io/github/followers/Rameesha8?label=Follow&style=for-the-badge&logo=github&color=8B5CF6&labelColor=171717" alt="GitHub followers" /></a>
-  <a href="https://github.com/Rameesha8?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20work-171717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <img src="https://img.shields.io/badge/Applied%20Machine%20Learning-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Applied machine learning" />
+  <img src="https://img.shields.io/badge/NLP-2563EB?style=for-the-badge&logo=spacy&logoColor=white" alt="Natural language processing" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-06B6D4?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer vision" />
+
+  <br /><br />
+  <a href="https://github.com/Rameesha8?tab=followers"><img src="https://img.shields.io/github/followers/Rameesha8?label=Follow&style=flat-square&logo=github&color=7C3AED&labelColor=171717" alt="GitHub followers" /></a>
+  <a href="https://github.com/Rameesha8?tab=repositories"><img src="https://img.shields.io/badge/Explore%20repositories-171717?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" /></a>
 
 </div>
 
 <br />
 
-## ✦ About me
+## Toolbox
 
-```python
-class Developer:
-    name = "Rameesha"
-    focus = ["Machine Learning", "Natural Language Processing", "Computer Vision"]
-    building = "practical AI experiences that solve real problems"
-    currently_learning = "deeper ML systems and production-ready Python"
-    motto = "Curiosity in, meaningful software out."
-```
+<div align="center">
 
-I enjoy turning messy, real-world problems into clear, useful software — from ranking resumes with semantic search to exploring Urdu text and making algorithms easier to understand visually.
+| Focus | Tools |
+| :-- | :-- |
+| **AI & Data** | <img src="https://skillicons.dev/icons?i=python,pytorch,opencv&theme=dark" height="42" alt="Python, PyTorch, and OpenCV" /> |
+| **Application Development** | <img src="https://skillicons.dev/icons?i=fastapi,flask,sqlite&theme=dark" height="42" alt="FastAPI, Flask, and SQLite" /> |
+| **Workflow** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="42" alt="Git, GitHub, and VS Code" /> |
 
-## ◈ Featured work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📄 <a href="https://github.com/Rameesha8/Resume-Screening-Using-NLP">Resume Screening with NLP</a></h3>
-      <p>Ranks uploaded resumes against a job description using sentence embeddings and cosine similarity.</p>
-      <p><code>Python</code> <code>Streamlit</code> <code>Sentence Transformers</code> <code>scikit-learn</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📝 <a href="https://github.com/Rameesha8/Urdu_Sentence_Segmentation">Urdu Sentence Segmentation</a></h3>
-      <p>Compares five approaches for segmenting noisy Urdu social-media text, with analysis and visual results.</p>
-      <p><code>Python</code> <code>UrduHack</code> <code>Stanza</code> <code>pandas</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧭 <a href="https://github.com/Rameesha8/Portfolio/tree/main/Smart%20Navigator">Smart Navigator</a></h3>
-      <p>An interactive visual guide to BFS, DFS, and A* pathfinding on a configurable grid.</p>
-      <p><code>Python</code> <code>Tkinter</code> <code>Algorithms</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>👁️ <a href="https://github.com/Rameesha8/Portfolio/tree/main/Smoking%20Detection">Smoking Detection</a></h3>
-      <p>A computer-vision project with training, inference, and video-preparation workflows.</p>
-      <p><code>Python</code> <code>YOLO</code> <code>OpenCV</code> <code>FastAPI</code></p>
-    </td>
-  </tr>
-</table>
-
-## ⚡ Toolbox
+</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode,fastapi,flask,mysql,sqlite,opencv&theme=dark" alt="Technology icons" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/NLP-06B6D4?style=flat-square&logo=spacy&logoColor=white" alt="Natural language processing" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-F97316?style=flat-square&logo=opencv&logoColor=white" alt="Computer vision" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-22C55E?style=flat-square&logo=pandas&logoColor=white" alt="Data analysis" />
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-5B21B6?style=flat-square" alt="Sentence Transformers" />
+  <img src="https://img.shields.io/badge/Streamlit-2563EB?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/pandas-06B6D4?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F97316?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 </p>
 
 ## 📊 GitHub snapshot
